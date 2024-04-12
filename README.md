@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+# Name:T.DANUSH REDDY
+# Referance no: 212223040029
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
